@@ -2,8 +2,8 @@
   "name": "ts-pq",
   "version": "1.0.0",
   "description": "Typescript Priority Queue",
-  "main": "lib/priorityQueue.js",
-  "typings": "lib/priorityQueue.d.ts",
+  "main": "lib/priorityqueue.js",
+  "typings": "lib/priorityqueue.d.ts",
   "scripts": {
     "build": "tsc"
   },
